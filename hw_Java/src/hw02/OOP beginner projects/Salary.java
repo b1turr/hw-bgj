@@ -1,8 +1,8 @@
 package hw02.OOP.projects;
 
-public class salary {
+public class Salary {
     int monthlySalary;
-    public salary(int initialMonthlySalary) { // I don't get this part maybe hooking new monthly salary as input
+    public salary(int initialMonthlySalary) { // we haven't covered this part, but I have to use it for hooking the input just in time
         this.monthlySalary = initialMonthlySalary;
     }
     
@@ -15,4 +15,5 @@ public class salary {
 
     }
 }
+
 
