@@ -1,6 +1,6 @@
 package hw02.OOP.projects;
 
-public class salaryTest {
+public class SalaryTest {
     public static void main(String[] args) {
         salary marksSalary = new salary(3000);
         int result_year = marksSalary.getYearlySalary();
@@ -9,4 +9,5 @@ public class salaryTest {
         System.out.println("Mark's double salary: " + result_double);
     }
 }
+
 
