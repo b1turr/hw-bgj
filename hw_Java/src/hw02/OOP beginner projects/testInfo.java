@@ -1,4 +1,4 @@
-public class testInfo {
+public class TestInfo {
     public static void main(String[] args) {
         Info person1 = new Info(); // creating first object
         person1.Name = "Baturay\n";
@@ -13,3 +13,4 @@ public class testInfo {
 
 
 }
+
